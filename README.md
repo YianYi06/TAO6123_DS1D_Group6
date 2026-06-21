@@ -4,9 +4,10 @@
 [Briefly describe what your project does, the problem it solves, and the main features of the system.]
 
 ## Team Members
-* [Name] - [Student ID]
-* [Name] - [Student ID]
-* [Name] - [Student ID]
+* [Tan Yian Yi] - [252UT241JP]
+* [Angeline E Jing En] - [252UT241LV]
+* [Bee Rui Yi] - [253UT242SU]
+* [Tee Thung Thung] - [252UT242KR]
 
 ## Tech Stack & Hardware
 * **Software:** [e.g., C, Assembly, HTML/CSS, SQL]
